@@ -50,6 +50,8 @@
 
 	<ItemGroup>
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
+		<PackageReference Include="SkiaSharp.Views.Maui.Controls" Version="2.88.3" />
+		<PackageReference Include="TouchTracking" Version="1.2.0" />
 	</ItemGroup>
 
 </Project>
